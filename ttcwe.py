@@ -29,6 +29,8 @@ except Exception as F:
 	os.system("pip install codecs")
 	pass
 
+os.system("clear")
+
 b = '\033[30m'
 re = '\033[31m'
 g = '\033[32m'
