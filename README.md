@@ -1,7 +1,5 @@
 # TikTok-UltimatePACK
 
-****This Is TikTok PACK That Have****
-
 **Users Checker With & Without SessionID**
 
 *1- Quad Username*
@@ -46,3 +44,6 @@ $ python ttcwe.py </span></pre>
 *1- Pythonista*
 
 *2- Python AI*
+
+
+"S"
