@@ -29,8 +29,7 @@
 **Android**
 
 *Termux*
-<pre><span class="pl-c">
-$ apt update && apt upgrade
+<pre><span class="pl-c">$ apt update && apt upgrade
 
 $ git clone https://github.com/R6N/TikTok-UltimatePACK
 
