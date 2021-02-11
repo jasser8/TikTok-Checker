@@ -26,9 +26,11 @@
 
 *3- Suicide, self-harm*
 
-**Android**
+# How to use?
 
-*Termux*
+**In Android**
+
+*1- Termux*
 <pre><span class="pl-c">$ apt update && apt upgrade
 
 $ git clone https://github.com/R6N/TikTok-UltimatePACK
@@ -37,7 +39,9 @@ $ cd TikTok-UltimatePACK
 
 $ python ttcwe.py </span></pre>
 
-**iPhone**
+*2- Pydroid3*
+
+**In IOS**
 
 *1- Pythonista*
 
