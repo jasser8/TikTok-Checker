@@ -1,5 +1,5 @@
 # TikTok-UltimatePACK
-## LIST
+## MENU
 - [TikTokPACK Contains](#-TikTokPACK-Contains-)
 - [How to use?](#-How-to-use?-)
 
