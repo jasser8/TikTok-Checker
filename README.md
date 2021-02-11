@@ -20,9 +20,9 @@
 
 **Report BOT**
 
-*1- SPAM Report*
+1- SPAM Report
 
-*2- Hate Speech*
+2- Hate Speech
 
-*3- Suicide, self-harm*
+3- Suicide, self-harm
 
