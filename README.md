@@ -49,4 +49,4 @@ $ python ttcwe.py </span></pre>
 
 ## About
 
-**Source By M3GON and J_Qatar and weex Edited By ME**
+**Source By M3GON and J_Qatar and WeeX, Edited By ME**
