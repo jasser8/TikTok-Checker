@@ -1,7 +1,4 @@
 # TikTok-UltimatePACK
-## MENU
-- [TikTokPACK-Contains](#-TikTokPACK-Contains-)
-- [How-to-use?](#-How-to-use?-)
 
 ## TikTokPACK Contains
 
