@@ -30,7 +30,7 @@
 
 *Termux*
 
-<pre><span class="pl-c"></span>
+<pre><span class="pl-c">
 
 $ apt update && apt upgrade
 
