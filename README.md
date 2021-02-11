@@ -2,15 +2,27 @@
 
 **This Is TikTok Python File PACK That Have**
 
-*1- Users Checker With & Without SessionID*
+**Users Checker With & Without SessionID**
 
-*2- User SWAP*
+*1- Quad Username*
 
-*3- Report BOT*
+*2- Semi-Triple Username*
 
-1- SPAM Report
+*3- Triple Username*
+ 
+**Turbo**
 
-2- Hate Speech
+*1- Quad Username*
 
-3- Suicide, self-harm
+*2- Semi-Triple Username*
+
+*3- Triple Username*
+
+**Report BOT**
+
+*1- SPAM Report*
+
+*2- Hate Speech*
+
+*3- Suicide, self-harm*
 
