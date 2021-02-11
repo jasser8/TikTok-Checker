@@ -30,8 +30,6 @@
 
 *Termux*
 
-<pre><span class="pl-c"></span>  </span>
-
 $ apt update && apt upgrade
 
 $ git clone https://github.com/R6N/TikTok-UltimatePACK
