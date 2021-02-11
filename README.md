@@ -30,10 +30,12 @@
 
 *Termux*
 
+<pre><span class="pl-c"></span>
+
 $ apt update && apt upgrade
 
 $ git clone https://github.com/R6N/TikTok-UltimatePACK
 
 $ cd TikTok-UltimatePACK
 
-$ python ttcwe.py
+$ python ttcwe.py </span></pre>
