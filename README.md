@@ -41,4 +41,4 @@ $ python ttcwe.py </span></pre>
 
 *1- Pythonista*
 
-*2- Pyrhon AI*
+*2- Python AI*
