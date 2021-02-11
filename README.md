@@ -29,7 +29,6 @@
 **Android**
 
 *Termux*
-
 <pre><span class="pl-c">
 
 $ apt update && apt upgrade
