@@ -7,6 +7,10 @@
 *2- User SWAP*
 
 *3- Report BOT*
+
 1- SPAM Report
+
 2- Hate Speech
+
 3- Suicide, self-harm
+
