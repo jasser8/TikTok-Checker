@@ -36,3 +36,7 @@ $ git clone https://github.com/R6N/TikTok-UltimatePACK
 $ cd TikTok-UltimatePACK
 
 $ python ttcwe.py </span></pre>
+
+**iPhone**
+*1- Pythonista*
+*2- Pyrhon AI*
