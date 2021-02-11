@@ -1,9 +1,9 @@
 # TikTok-UltimatePACK
 ## LIST
-- [TikTok-PACK Contains](#-TikTok-PACK Contains-)
-- [How to use](#-How to use?-)
+- [TikTok-PACK Contains](#-TikTokPACK-Contains-)
+- [How to use](#-How-to-use?-)
 
-#### TikTok-PACK Contains
+#### TikTokPACK Contains
 
 **Users Checker With & Without SessionID**
 
