@@ -1,6 +1,6 @@
 # TikTok-UltimatePACK
 ## LIST
-- [TikTok-PACK Contains](#-TikTokPACK-Contains-)
+- [TikTokPACK Contains](#-TikTokPACK-Contains-)
 - [How to use](#-How-to-use?-)
 
 #### TikTokPACK Contains
