@@ -1438,9 +1438,9 @@ if kieu == "1":
 	slow(Style.BRIGHT+wh+"""│
 ├───""" +b+'['+wh+'Checker'+b+']'+wh+'─'+b+'['+g+'~'+b+']' +wh+"""
 │
-├─────╼ """+b+'['+wh+'TikTok Checker With SessionID'+b+']'+re+' ❯'+wh+'❯'+b+'❯ '+wh+"""
+├─────╼ """+b+'['+wh+'1'+b+']'+re+' ❯'+wh+'❯'+b+'❯ '+wh+'TikTok Checker With SessionID'"""
 │
-├─────╼ """+b+'['+wh+'TIkTok Checker Without SessionID '+b+']'+re+' ❯'+wh+'❯'+b+'❯ '+wh)
+├─────╼ """+b+'['+wh+'2'+b+']'+re+' ❯'+wh+'❯'+b+'❯ '+wh+'TikTok Checker Without SesssionID')
 	ctct = input("""│
 ├──────╼ """+b+'['+wh+'Enter The Number'+b+']'+re+' ❯'+wh+'❯'+b+'❯ '+wh)
 	if ctct == "1":
